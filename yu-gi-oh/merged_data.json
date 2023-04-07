@@ -1,1 +1,1262 @@
-[{"Rarity":"HR","Name":"\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0","Price":30.0},{"Rarity":"PSE","Name":"\u6df1\u6df5\u306e\u76f8\u5263\u9f8d","Price":148.8},{"Rarity":"PSE","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8","Price":238.8},{"Rarity":"PSE","Name":"\u30ab\u30aa\u30b9\u30fb\u30a6\u30a3\u30c3\u30c1-\u6df7\u6c8c\u306e\u9b54\u5973-","Price":298.8},{"Rarity":"PSE","Name":"\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0","Price":148.8},{"Rarity":"PSE","Name":"\u51f6\u5c0e\u306e\u767d\u304d\u5929\u5e95","Price":178.8},{"Rarity":"PSE","Name":"\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9","Price":418.8},{"Rarity":"PSE","Name":"\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb","Price":888.0},{"Rarity":"PSE","Name":"\u6483\u9244\u7adc\u30ea\u30f3\u30c9\u30d6\u30eb\u30e0","Price":178.8},{"Rarity":"PSE","Name":"\u5b8c\u5168\u614b\u30fb\u30b0\u30ec\u30fc\u30c8\u30fb\u30a4\u30f3\u30bb\u30af\u30c8","Price":148.8},{"Rarity":"PSE","Name":"\u91dd\u6df5\u306e\u30f4\u30a1\u30ea\u30a2\u30f3\u30c4-\u30a2\u30eb\u30af\u30c8\u30b9XII","Price":148.8},{"Rarity":"PSE","Name":"\u6c37\u6c34\u557c\u30a8\u30b8\u30eb\u30fb\u30ae\u30e5\u30df\u30eb","Price":598.8},{"Rarity":"PSE","Name":"\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-","Price":148.8},{"Rarity":"PSE","Name":"CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687","Price":418.8},{"Rarity":"PSE","Name":"\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...","Price":148.8},{"Rarity":"PSE","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8","Price":358.8},{"Rarity":"PSE","Name":"\u5f71\u306e\u738b \u30ec\u30a4\u30f4\u30a1\u30fc\u30c6\u30a4\u30f3","Price":148.8},{"Rarity":"PSE","Name":"\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...","Price":238.8},{"Rarity":"PSE","Name":"\u9b54\u754c\u5287\u56e3\u306e\u30b2\u30cd\u30d7\u30ed","Price":148.8},{"Rarity":"PSE","Name":"No.62 \u9280\u6cb3\u773c\u306e\u5149\u5b50\u7adc\u7687","Price":1788.0},{"Rarity":"SE","Name":"\u6df1\u6df5\u306e\u76f8\u5263\u9f8d","Price":25.2},{"Rarity":"SE","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8","Price":46.8},{"Rarity":"SE","Name":"\u30ab\u30aa\u30b9\u30fb\u30a6\u30a3\u30c3\u30c1-\u6df7\u6c8c\u306e\u9b54\u5973-","Price":25.2},{"Rarity":"SE","Name":"\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0","Price":25.2},{"Rarity":"SE","Name":"\u51f6\u5c0e\u306e\u767d\u304d\u5929\u5e95","Price":30.0},{"Rarity":"SE","Name":"\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9","Price":58.8},{"Rarity":"SE","Name":"\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb","Price":148.8},{"Rarity":"SE","Name":"\u6483\u9244\u7adc\u30ea\u30f3\u30c9\u30d6\u30eb\u30e0","Price":40.8},{"Rarity":"SE","Name":"\u5b8c\u5168\u614b\u30fb\u30b0\u30ec\u30fc\u30c8\u30fb\u30a4\u30f3\u30bb\u30af\u30c8","Price":25.2},{"Rarity":"SE","Name":"\u91dd\u6df5\u306e\u30f4\u30a1\u30ea\u30a2\u30f3\u30c4-\u30a2\u30eb\u30af\u30c8\u30b9XII","Price":25.2},{"Rarity":"SE","Name":"\u6c37\u6c34\u557c\u30a8\u30b8\u30eb\u30fb\u30ae\u30e5\u30df\u30eb","Price":118.8},{"Rarity":"SE","Name":"\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-","Price":25.2},{"Rarity":"SE","Name":"CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687","Price":58.8},{"Rarity":"SE","Name":"\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...","Price":25.2},{"Rarity":"SE","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8","Price":58.8},{"Rarity":"SE","Name":"\u5f71\u306e\u738b \u30ec\u30a4\u30f4\u30a1\u30fc\u30c6\u30a4\u30f3","Price":25.2},{"Rarity":"SE","Name":"\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...","Price":34.8},{"Rarity":"SE","Name":"\u9b54\u754c\u5287\u56e3\u306e\u30b2\u30cd\u30d7\u30ed","Price":25.2},{"Rarity":"UL","Name":"\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0","Price":19.2},{"Rarity":"UL","Name":"\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9","Price":25.2},{"Rarity":"UL","Name":"\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb","Price":58.8},{"Rarity":"UL","Name":"\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-","Price":19.2},{"Rarity":"UL","Name":"CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687","Price":25.2},{"Rarity":"UL","Name":"\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...","Price":19.2},{"Rarity":"UL","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8","Price":34.8},{"Rarity":"UL","Name":"\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...","Price":25.2},{"Rarity":"UR","Name":"\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0","Price":10.8},{"Rarity":"UR","Name":"\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9","Price":13.2},{"Rarity":"UR","Name":"\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb","Price":46.8},{"Rarity":"UR","Name":"\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-","Price":10.8},{"Rarity":"UR","Name":"CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687","Price":13.2},{"Rarity":"UR","Name":"\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...","Price":10.8},{"Rarity":"UR","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8","Price":25.2},{"Rarity":"UR","Name":"\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...","Price":13.2},{"Rarity":"SR","Name":"\u6df1\u6df5\u306e\u76f8\u5263\u9f8d","Price":10.8},{"Rarity":"SR","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8","Price":19.2},{"Rarity":"SR","Name":"\u30ab\u30aa\u30b9\u30fb\u30a6\u30a3\u30c3\u30c1-\u6df7\u6c8c\u306e\u9b54\u5973-","Price":10.8},{"Rarity":"SR","Name":"\u51f6\u5c0e\u306e\u767d\u304d\u5929\u5e95","Price":10.8},{"Rarity":"SR","Name":"\u6483\u9244\u7adc\u30ea\u30f3\u30c9\u30d6\u30eb\u30e0","Price":13.2},{"Rarity":"SR","Name":"\u5b8c\u5168\u614b\u30fb\u30b0\u30ec\u30fc\u30c8\u30fb\u30a4\u30f3\u30bb\u30af\u30c8","Price":7.2},{"Rarity":"SR","Name":"\u91dd\u6df5\u306e\u30f4\u30a1\u30ea\u30a2\u30f3\u30c4-\u30a2\u30eb\u30af\u30c8\u30b9XII","Price":10.8},{"Rarity":"SR","Name":"\u6c37\u6c34\u557c\u30a8\u30b8\u30eb\u30fb\u30ae\u30e5\u30df\u30eb","Price":19.2},{"Rarity":"SR","Name":"\u5f71\u306e\u738b \u30ec\u30a4\u30f4\u30a1\u30fc\u30c6\u30a4\u30f3","Price":10.8},{"Rarity":"SR","Name":"\u9b54\u754c\u5287\u56e3\u306e\u30b2\u30cd\u30d7\u30ed","Price":10.8},{"Rarity":"R","Name":"\u30d5\u30a9\u30c8\u30f3\u30fb\u30a8\u30f3\u30da\u30e9\u30fc","Price":7.2},{"Rarity":"R","Name":"\u30ab\u30aa\u30b9\u30fb\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30c9\u30e9\u30b4\u30f3","Price":7.2},{"Rarity":"R","Name":"\u5186\u559a\u5e2b\u30d5\u30a7\u30a2\u30ea","Price":7.2},{"Rarity":"R","Name":"\u5191\u306e\u5fcd\u8005-\u6ad3\u4e38","Price":7.2},{"Rarity":"R","Name":"\u30ab\u30aa\u30b9\u30fb\u30d3\u30fc\u30b9\u30c8-\u6df7\u6c8c\u306e\u9b54\u7363-","Price":4.8},{"Rarity":"R","Name":"\u6d77\u9020\u8cca-\u8358\u91cd\u306e\u30e8\u30eb\u30ba\u53f7","Price":4.8},{"Rarity":"R","Name":"\u30b5\u30fc\u30af\u30eb\u30fb\u30aa\u30d6\u30fb\u30d5\u30a7\u30a2\u30ea\u30fc","Price":7.2},{"Rarity":"R","Name":"\u9280\u6cb3\u5149\u5b50\u7adc","Price":7.2},{"Rarity":"R","Name":"\u9b54\u754c\u5287\u56e3-\u30b9\u30fc\u30d1\u30fc\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc","Price":7.2},{"Rarity":"R","Name":"\u9280\u6cb3\u767e\u5f0f","Price":7.2},{"Rarity":"R","Name":"\u6c37\u6c34\u5927\u5263\u73fe","Price":7.2},{"Rarity":"R","Name":"\u30bf\u30ea\u30db\u30fc!\u30b9\u30d7\u30ea\u30ac\u30f3\u30ba!","Price":7.2},{"Rarity":"R","Name":"\u516d\u4e16\u58ca=\u30d1\u30e9\u30a4\u30be\u30b9","Price":7.2},{"Rarity":"R","Name":"\u5acb\u3005\u305f\u308b\u6f23\u6b4c\u59eb\u306e\u58f1\u4e16\u58ca","Price":7.2},{"Rarity":"R","Name":"\u30ea\u30c1\u30e5\u30a2\u306e\u6c37\u9b54\u93e1","Price":7.2},{"Rarity":"R","Name":"\u707d\u8a95\u306e\u546a\u773c","Price":4.8},{"Rarity":"R","Name":"\u4e09\u6226\u306e\u53f7","Price":19.2},{"Rarity":"R","Name":"\u30d3\u30c3\u30b0\u30a6\u30a7\u30eb\u30ab\u30e0\u30fb\u30e9\u30d3\u30e5\u30ea\u30f3\u30b9","Price":13.2},{"Rarity":"NR","Name":"\u6d41\u661f\u9023\u6253-\u30b7\u30ed\u30af\u30ed\u30a4\u30c9","Price":7.2},{"Rarity":"NR","Name":"\u6f5c\u4f0f\u3059\u308bG","Price":13.2},{"Rarity":"NR","Name":"\u571f\u5730\u3053\u308d\u304c\u3057","Price":7.2},{"Rarity":"NR","Name":"\u5a01\u8feb\u9271\u77f3-\u30b5\u30e2\u30ca\u30a4\u30c8","Price":13.2},{"Rarity":"N","Name":"\u9280\u6cb3\u306e\u53ec\u559a\u5e2b","Price":3.0},{"Rarity":"N","Name":"\u30ae\u30e3\u30e9\u30af\u30ea\u30dc\u30fc","Price":3.0},{"Rarity":"N","Name":"\u6df1\u6df5\u306e\u7363\u30d0\u30eb\u30c9\u30ec\u30a4\u30af","Price":7.2},{"Rarity":"N","Name":"\u30b9\u30b1\u30a2\u30af\u30ed\u30fc\u30fb\u30af\u30b7\u30e3\u30c8\u30ea\u30e9","Price":3.0},{"Rarity":"N","Name":"\u30c6\u30a3\u30a2\u30e9\u30e1\u30f3\u30c4\u30fb\u30af\u30b7\u30e3\u30c8\u30ea\u30e9","Price":4.8},{"Rarity":"N","Name":"\u6df7\u6c8c\u6bbb","Price":3.0},{"Rarity":"N","Name":"\u6df7\u6c8c\u6838","Price":3.0},{"Rarity":"N","Name":"\u30e1\u30f3\u30bf\u30eb\u30fb\u30c1\u30e5\u30fc\u30ca\u30fc","Price":3.0},{"Rarity":"N","Name":"\u6606\u866b\u6a5f\u7532\u93a7","Price":3.0},{"Rarity":"N","Name":"\u30b8\u30e3\u30a4\u30a2\u30f3\u30c8\u30fb\u30e1\u30b5\u30a4\u30a2","Price":3.0},{"Rarity":"N","Name":"\u9b54\u754c\u5287\u56e3-\u30ea\u30d0\u30c6\u30a3\u30fb\u30c9\u30e9\u30de\u30c1\u30b9\u30c8","Price":3.0},{"Rarity":"N","Name":"\u91cd\u306e\u5fcd\u8005-\u78c1\u7fc1","Price":3.0},{"Rarity":"N","Name":"\u30b0\u30ea\u30e0\u30fb\u30ea\u30c1\u30e5\u30a2","Price":3.0},{"Rarity":"N","Name":"\u546a\u773c\u306e\u7737\u5c5e \u30d0\u30b8\u30ea\u30b3\u30c3\u30af","Price":3.0},{"Rarity":"N","Name":"\u738b\u306e\u546a \u30f4\u30a1\u30e9","Price":3.0},{"Rarity":"N","Name":"\u9707\u5929\u306e\u30de\u30f3\u30c6\u30a3\u30b3\u30a2","Price":3.0},{"Rarity":"N","Name":"\u30c1\u30e7\u30a6\u30b8\u30e5\u30fb\u30b4\u30c3\u30c9","Price":3.0},{"Rarity":"N","Name":"\u731b\u864e\u30e2\u30f3\u30d5\u30fc","Price":3.0},{"Rarity":"N","Name":"\u9280\u7ffc\u306eAXE-\u30b5\u30ea\u30fc","Price":3.0},{"Rarity":"N","Name":"Couple of Aces","Price":3.0},{"Rarity":"N","Name":"\u6b21\u5143\u540c\u7570\u4f53\u30f4\u30a1\u30ea\u30b9","Price":3.0},{"Rarity":"N","Name":"\u5927\u513a\u4e3b\u6c34","Price":4.8},{"Rarity":"N","Name":"\u30cc\u30e1\u30ed\u30f3\u30fb\u30af\u30ea\u30a8\u30a4\u30b7\u30e7\u30f3","Price":7.2},{"Rarity":"N","Name":"\u51f6\u5c0e\u306e\u8056\u544a","Price":7.2},{"Rarity":"N","Name":"\u70d9\u5370\u306e\u5149","Price":7.2},{"Rarity":"N","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30aa\u30fc\u30d0\u30fc\u30e9\u30c3\u30d7","Price":7.2},{"Rarity":"N","Name":"\u516d\u4e16\u58ca\u4ed6\u5316\u81ea\u5728\u5929","Price":7.2},{"Rarity":"N","Name":"\u754c\u653e\u305b\u3057\u8086\u4e16\u58ca","Price":7.2},{"Rarity":"N","Name":"G\u30fb\u30dc\u30fc\u30eb\u30fb\u30b7\u30e5\u30fc\u30c8","Price":7.2},{"Rarity":"N","Name":"\u9b54\u754c\u53f0\u672c\u300c\u30c9\u30e9\u30de\u30c1\u30c3\u30af\u30fb\u30b9\u30c8\u30fc...","Price":7.2},{"Rarity":"N","Name":"\u5929\u5730\u6666\u51a5","Price":4.8},{"Rarity":"N","Name":"\u5100\u6c34\u93e1\u306e\u96c6\u5149","Price":7.2},{"Rarity":"N","Name":"\u30d5\u30a9\u30c8\u30f3\u30fb\u30ea\u30bf\u30c7\u30a4\u30b7\u30e7\u30f3","Price":7.2},{"Rarity":"N","Name":"\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u30fb\u30b5\u30f3\u30c0\u30fc\u30af\u30ed\u30b9","Price":4.8},{"Rarity":"N","Name":"\u5c0e\u304b\u308c\u3057\u70d9\u5370","Price":7.2},{"Rarity":"N","Name":"\u30c8\u30ea\u30f4\u30a3\u30ab\u30eb\u30de","Price":7.2},{"Rarity":"N","Name":"\u516d\u4e16\u58ca\u6839\u6e05\u6d44","Price":7.2},{"Rarity":"N","Name":"\u6df7\u6c8c\u5909\u5e7b","Price":4.8},{"Rarity":"N","Name":"\u53f0\u8cab\u8a08\u91cf","Price":7.2},{"Rarity":"N","Name":"\u8d64\u9162\u306e\u8e0f\u5207","Price":7.2},{"Rarity":"HR","Name":"\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599","Price":30.0},{"Rarity":"PSE","Name":"\u8d85\u91cd\u795e\u7ae5\u30ef\u30ab-U4","Price":178.8},{"Rarity":"PSE","Name":"\u6df1\u6df5\u306e\u7363\u30a2\u30eb\u30d9\u30eb","Price":148.8},{"Rarity":"PSE","Name":"\u6c37\u6c34\u5e1d\u30a8\u30b8\u30eb\u30fb\u30e9\u30fc\u30f3","Price":478.8},{"Rarity":"PSE","Name":"\u5c0e\u304d\u306e\u8056\u5973\u30af\u30a8\u30e0","Price":888.0},{"Rarity":"PSE","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30ea\u30a6\u30e0\u30cf\u30fc\u30c8","Price":178.8},{"Rarity":"PSE","Name":"\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2","Price":478.8},{"Rarity":"PSE","Name":"\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599","Price":148.8},{"Rarity":"PSE","Name":"\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3","Price":178.8},{"Rarity":"PSE","Name":"\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9","Price":178.8},{"Rarity":"PSE","Name":"\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O","Price":148.8},{"Rarity":"PSE","Name":"\u8d85\u91cd\u795e\u5c06\u30b7\u30e3\u30ca-O","Price":148.8},{"Rarity":"PSE","Name":"\u6df1\u6df5\u306e\u795e\u7363\u30c7\u30a3\u30b9\u30fb\u30d1\u30c6\u30eb","Price":358.8},{"Rarity":"PSE","Name":"\u8d6b\u8056\u306e\u5996\u9a0e\u58eb","Price":1068.0},{"Rarity":"PSE","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d7\u30e9\u30a4\u30e0\u30cf\u30fc\u30c8","Price":148.8},{"Rarity":"PSE","Name":"\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9","Price":148.8},{"Rarity":"PSE","Name":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...","Price":298.8},{"Rarity":"PSE","Name":"\u30d7\u30ed\u30c6\u30af\u30c8\u30b3\u30fc\u30c9\u30fb\u30c8\u30fc\u30ab\u30fc","Price":148.8},{"Rarity":"PSE","Name":"\u30b0\u30e9\u30f3\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30af\u30fc\u30ea\u30a2","Price":358.8},{"Rarity":"PSE","Name":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30c0...","Price":768.0},{"Rarity":"SE","Name":"\u8d85\u91cd\u795e\u7ae5\u30ef\u30ab-U4","Price":46.8},{"Rarity":"SE","Name":"\u6df1\u6df5\u306e\u7363\u30a2\u30eb\u30d9\u30eb","Price":25.2},{"Rarity":"SE","Name":"\u6c37\u6c34\u5e1d\u30a8\u30b8\u30eb\u30fb\u30e9\u30fc\u30f3","Price":88.8},{"Rarity":"SE","Name":"\u5c0e\u304d\u306e\u8056\u5973\u30af\u30a8\u30e0","Price":106.8},{"Rarity":"SE","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30ea\u30a6\u30e0\u30cf\u30fc\u30c8","Price":30.0},{"Rarity":"SE","Name":"\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2","Price":46.8},{"Rarity":"SE","Name":"\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599","Price":19.2},{"Rarity":"SE","Name":"\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3","Price":30.0},{"Rarity":"SE","Name":"\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9","Price":30.0},{"Rarity":"SE","Name":"\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O","Price":19.2},{"Rarity":"SE","Name":"\u8d85\u91cd\u795e\u5c06\u30b7\u30e3\u30ca-O","Price":19.2},{"Rarity":"SE","Name":"\u6df1\u6df5\u306e\u795e\u7363\u30c7\u30a3\u30b9\u30fb\u30d1\u30c6\u30eb","Price":106.8},{"Rarity":"SE","Name":"\u8d6b\u8056\u306e\u5996\u9a0e\u58eb","Price":106.8},{"Rarity":"SE","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d7\u30e9\u30a4\u30e0\u30cf\u30fc\u30c8","Price":19.2},{"Rarity":"SE","Name":"\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9","Price":19.2},{"Rarity":"SE","Name":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...","Price":30.0},{"Rarity":"SE","Name":"\u30d7\u30ed\u30c6\u30af\u30c8\u30b3\u30fc\u30c9\u30fb\u30c8\u30fc\u30ab\u30fc","Price":19.2},{"Rarity":"SE","Name":"\u30b0\u30e9\u30f3\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30af\u30fc\u30ea\u30a2","Price":40.8},{"Rarity":"UL","Name":"\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2","Price":58.8},{"Rarity":"UL","Name":"\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599","Price":13.2},{"Rarity":"UL","Name":"\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3","Price":19.2},{"Rarity":"UL","Name":"\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9","Price":19.2},{"Rarity":"UL","Name":"\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O","Price":13.2},{"Rarity":"UL","Name":"\u8d6b\u8056\u306e\u5996\u9a0e\u58eb","Price":46.8},{"Rarity":"UL","Name":"\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9","Price":13.2},{"Rarity":"UL","Name":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...","Price":19.2},{"Rarity":"UR","Name":"\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2","Price":19.2},{"Rarity":"UR","Name":"\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599","Price":7.2},{"Rarity":"UR","Name":"\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3","Price":10.8},{"Rarity":"UR","Name":"\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9","Price":10.8},{"Rarity":"UR","Name":"\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O","Price":7.2},{"Rarity":"UR","Name":"\u8d6b\u8056\u306e\u5996\u9a0e\u58eb","Price":25.2},{"Rarity":"UR","Name":"\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9","Price":7.2},{"Rarity":"UR","Name":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...","Price":10.8},{"Rarity":"SR","Name":"\u8d85\u91cd\u795e\u7ae5\u30ef\u30ab-U4","Price":13.2},{"Rarity":"SR","Name":"\u6df1\u6df5\u306e\u7363\u30a2\u30eb\u30d9\u30eb","Price":10.8},{"Rarity":"SR","Name":"\u6c37\u6c34\u5e1d\u30a8\u30b8\u30eb\u30fb\u30e9\u30fc\u30f3","Price":13.2},{"Rarity":"SR","Name":"\u5c0e\u304d\u306e\u8056\u5973\u30af\u30a8\u30e0","Price":13.2},{"Rarity":"SR","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30ea\u30a6\u30e0\u30cf\u30fc\u30c8","Price":10.8},{"Rarity":"SR","Name":"\u8d85\u91cd\u795e\u5c06\u30b7\u30e3\u30ca-O","Price":7.2},{"Rarity":"SR","Name":"\u6df1\u6df5\u306e\u795e\u7363\u30c7\u30a3\u30b9\u30fb\u30d1\u30c6\u30eb","Price":13.2},{"Rarity":"SR","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d7\u30e9\u30a4\u30e0\u30cf\u30fc\u30c8","Price":7.2},{"Rarity":"SR","Name":"\u30d7\u30ed\u30c6\u30af\u30c8\u30b3\u30fc\u30c9\u30fb\u30c8\u30fc\u30ab\u30fc","Price":7.2},{"Rarity":"SR","Name":"\u30b0\u30e9\u30f3\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30af\u30fc\u30ea\u30a2","Price":10.8},{"Rarity":"R","Name":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c7\u30a3\u30d5\u30a7\u30f3\u30b5\u30fc","Price":7.2},{"Rarity":"R","Name":"\u8d85\u91cd\u50e7\u5175\u30d3\u30c3\u30b0\u30d9\u30f3-K","Price":7.2},{"Rarity":"R","Name":"\u73e0\u306e\u5fa1\u5deb\u30d5\u30a5\u30ea","Price":7.2},{"Rarity":"R","Name":"\u661f\u9a0e\u58eb \u30ea\u30e5\u30e9","Price":7.2},{"Rarity":"R","Name":"\u6050\u697d\u5712\u306e\u6b7b\u914d\u4eba \uff1cArlechino\uff1e","Price":4.8},{"Rarity":"R","Name":"\u767e\u6a8e\u9f8d-\u30ea\u30f3\u30b4\u30d6\u30eb\u30e0","Price":7.2},{"Rarity":"R","Name":"\u30b5\u30a4\u30d0\u30fc\u30b9\u30fb\u30c7\u30a3\u30bb\u30fc\u30d6\u30eb\u30e0","Price":7.2},{"Rarity":"R","Name":"\u9a0e\u7532\u866b\u30af\u30eb\u30fc\u30a8\u30eb\u30fb\u30b5\u30bf\u30fc\u30f3","Price":4.8},{"Rarity":"R","Name":"\u30ab\u30aa\u30b9\u30fb\u30a2\u30f3\u30d8\u30eb-\u6df7\u6c8c\u306e\u53cc\u7ffc-","Price":10.8},{"Rarity":"R","Name":"\u96fb\u8133\u583a\u864e-\u864e\u3005","Price":4.8},{"Rarity":"R","Name":"\u9244\u7363\u306e\u5486\u54ee","Price":7.2},{"Rarity":"R","Name":"\u958b\u304b\u308c\u3057\u5927\u5730","Price":7.2},{"Rarity":"R","Name":"\u4f0d\u4e16\u58ca\u5fc3\u50cf","Price":4.8},{"Rarity":"R","Name":"\u4f0d\u4e16\u58ca=\u30ab\u30e9\u30ea\u30a6\u30e0","Price":7.2},{"Rarity":"R","Name":"\u5bdd\u59eb\u306e\u7518\u3044\u5922","Price":7.2},{"Rarity":"R","Name":"\u30ea\u30d6\u30ed\u30de\u30f3\u30b5\u30fc\u30fb\u30aa\u30ea\u30b8\u30f3","Price":4.8},{"Rarity":"R","Name":"\u6642\u3092\u88c2\u304f\u9b54\u77b3","Price":10.8},{"Rarity":"R","Name":"\u878d\u5408\u8907\u88fd","Price":7.2},{"Rarity":"NR","Name":"\u30ef\u30ca\u30d3\u30fc!","Price":30.0},{"Rarity":"NR","Name":"\u30a6\u30b5\u30df\u30df\u5c0e\u5e2b","Price":7.2},{"Rarity":"NR","Name":"\u30c8\u30f3=\u30c8\u30f3","Price":7.2},{"Rarity":"NR","Name":"\u521d\u8cb7\u3044","Price":7.2},{"Rarity":"N","Name":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30d5\u30a1\u30f3\u30c8\u30e0","Price":3.0},{"Rarity":"N","Name":"\u8d85\u91cd\u6b66\u8005\u30d0\u30a4-Q","Price":3.0},{"Rarity":"N","Name":"\u8d85\u91cd\u6b66\u8005\u30aa\u30f3-32","Price":3.0},{"Rarity":"N","Name":"\u8d85\u91cd\u6b66\u8005\u88c5\u7559\u30ac\u30a4\u30a2\u30fb\u30d6\u30fc\u30b9\u30bf\u30fc","Price":3.0},{"Rarity":"N","Name":"\u30a2\u30eb\u30ae\u30ed\u30b9\u306e\u843d\u80e4","Price":3.0},{"Rarity":"N","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d2\u30a2\u30ec\u30b9","Price":3.0},{"Rarity":"N","Name":"\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30df\u30fc\u30af","Price":3.0},{"Rarity":"N","Name":"\u30cd\u30e0\u30ec\u30ea\u30a2\u306e\u5922\u5b88\u308a-\u30aa\u30ec\u30a4\u30a8","Price":3.0},{"Rarity":"N","Name":"\u30cd\u30e0\u30ec\u30ea\u30a2\u306e\u5922\u5b88\u308a-\u30af\u30a8\u30c3\u30c8","Price":3.0},{"Rarity":"N","Name":"\u30d4\u30e5\u30a2\u30ea\u30a3\u30fb\u30ea\u30ea\u30a3","Price":3.0},{"Rarity":"N","Name":"\u661f\u9a0e\u58eb \u30a2\u30eb\u30c6\u30a2","Price":3.0},{"Rarity":"N","Name":"\u7121\u9650\u8d77\u52d5\u30ed\u30fc\u30c9\u30ed\u30fc\u30e9\u30fc","Price":3.0},{"Rarity":"N","Name":"\u30d5\u30eb\u30a2\u30af\u30c6\u30a3\u30d6\u30fb\u30c7\u30e5\u30d7\u30ec\u30c3\u30af\u30b9","Price":3.0},{"Rarity":"N","Name":"\u6b7b\u5929\u4f7f\u30cf\u30fc\u30f4\u30a7\u30b9\u30c8","Price":3.0},{"Rarity":"N","Name":"\u5e78\u9b42","Price":3.0},{"Rarity":"N","Name":"\u6109\u602a\u306a\u71d0\u306e\u304d\u3064\u306d\u3073\u3086\u3089\u3089","Price":3.0},{"Rarity":"N","Name":"\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30fc\u30f3","Price":3.0},{"Rarity":"N","Name":"\u30b5\u30a4\u30d0\u30fc\u30b9\u30fb\u30bb\u30a4\u30b8","Price":3.0},{"Rarity":"N","Name":"\u53cc\u5929\u306e\u7345\u4f7f-\u963f\u543d","Price":3.0},{"Rarity":"N","Name":"S-Force \u30ca\u30a4\u30c8\u30c1\u30a7\u30a4\u30b5\u30fc","Price":3.0},{"Rarity":"N","Name":"\u30b5\u30a4\u30d0\u30cd\u30c3\u30c8\u30fb\u30ed\u30fc\u30eb\u30d0\u30c3\u30af","Price":7.2},{"Rarity":"N","Name":"\u8d6b\u8056\u306e\u76f8\u5263","Price":7.2},{"Rarity":"N","Name":"\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30af\u30b9\u30c8\u30e9","Price":4.8},{"Rarity":"N","Name":"\u4f0d\u4e16\u58ca\u6458\u5fc3","Price":7.2},{"Rarity":"N","Name":"\u30cd\u30e0\u30ec\u30ea\u30a2\u306e\u5bdd\u59eb\u697c","Price":7.2},{"Rarity":"N","Name":"\u30d4\u30e5\u30a2\u30ea\u30a3\u30fb\u30b9\u30ea\u30fc\u30d4\u30a3\u30e1\u30e2\u30ea\u30fc","Price":7.2},{"Rarity":"N","Name":"\u5fa1\u5deb\u821e\u8e0a-\u8ff7\u308f\u3057\u9ce5","Price":7.2},{"Rarity":"N","Name":"\u661f\u5b88\u306e\u9a0e\u58eb\u56e3","Price":7.2},{"Rarity":"N","Name":"\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2","Price":7.2},{"Rarity":"N","Name":"\u304a\u3059\u3059\u3081\u8ecd\u8cab\u63e1\u308a","Price":7.2},{"Rarity":"N","Name":"\u30b5\u30a4\u30d0\u30cd\u30c3\u30c8\u30fb\u30b5\u30fc\u30ad\u30c3\u30c8","Price":7.2},{"Rarity":"N","Name":"\u8d6b\u3051\u308b\u738b\u306e\u70d9\u5370","Price":7.2},{"Rarity":"N","Name":"\u70d9\u5370\u306e\u5373\u51f6\u5287","Price":7.2},{"Rarity":"N","Name":"\u4f0d\u4e16\u58ca\u7815\u5fc3","Price":4.8},{"Rarity":"N","Name":"\u4f0d\u4e16\u58ca\u6d44\u5fc3","Price":4.8},{"Rarity":"N","Name":"\u8b58\u7121\u8fba\u4e16\u58ca","Price":4.8},{"Rarity":"N","Name":"REINFORCE!","Price":4.8},{"Rarity":"N","Name":"\u30c0\u30a4\u30ce\u30eb\u30d5\u30a3\u30a2\u30fb\u30a4\u30f3\u30bf\u30af\u30c8","Price":7.2},{"Rarity":"N","Name":"\u30c8\u30e9\u30c3\u30d7\u30c8\u30e9\u30c3\u30af","Price":7.2},{"Rarity":"N","Name":"\u30c0\u30d6\u30eb\u30fb\u30d5\u30c3\u30ad\u30f3\u30b0","Price":7.2}]
+[
+    {
+        "Rarity": "HR",
+        "Name": "\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u6df1\u6df5\u306e\u76f8\u5263\u9f8d",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8",
+        "Price": 238.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30a6\u30a3\u30c3\u30c1-\u6df7\u6c8c\u306e\u9b54\u5973-",
+        "Price": 298.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u51f6\u5c0e\u306e\u767d\u304d\u5929\u5e95",
+        "Price": 178.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9",
+        "Price": 418.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb",
+        "Price": 888.0
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u6483\u9244\u7adc\u30ea\u30f3\u30c9\u30d6\u30eb\u30e0",
+        "Price": 178.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u5b8c\u5168\u614b\u30fb\u30b0\u30ec\u30fc\u30c8\u30fb\u30a4\u30f3\u30bb\u30af\u30c8",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u91dd\u6df5\u306e\u30f4\u30a1\u30ea\u30a2\u30f3\u30c4-\u30a2\u30eb\u30af\u30c8\u30b9XII",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u6c37\u6c34\u557c\u30a8\u30b8\u30eb\u30fb\u30ae\u30e5\u30df\u30eb",
+        "Price": 598.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687",
+        "Price": 418.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8",
+        "Price": 358.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u5f71\u306e\u738b \u30ec\u30a4\u30f4\u30a1\u30fc\u30c6\u30a4\u30f3",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...",
+        "Price": 238.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u9b54\u754c\u5287\u56e3\u306e\u30b2\u30cd\u30d7\u30ed",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "No.62 \u9280\u6cb3\u773c\u306e\u5149\u5b50\u7adc\u7687",
+        "Price": 1788.0
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u6df1\u6df5\u306e\u76f8\u5263\u9f8d",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8",
+        "Price": 46.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30a6\u30a3\u30c3\u30c1-\u6df7\u6c8c\u306e\u9b54\u5973-",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u51f6\u5c0e\u306e\u767d\u304d\u5929\u5e95",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9",
+        "Price": 58.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u6483\u9244\u7adc\u30ea\u30f3\u30c9\u30d6\u30eb\u30e0",
+        "Price": 40.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u5b8c\u5168\u614b\u30fb\u30b0\u30ec\u30fc\u30c8\u30fb\u30a4\u30f3\u30bb\u30af\u30c8",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u91dd\u6df5\u306e\u30f4\u30a1\u30ea\u30a2\u30f3\u30c4-\u30a2\u30eb\u30af\u30c8\u30b9XII",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u6c37\u6c34\u557c\u30a8\u30b8\u30eb\u30fb\u30ae\u30e5\u30df\u30eb",
+        "Price": 118.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687",
+        "Price": 58.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8",
+        "Price": 58.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u5f71\u306e\u738b \u30ec\u30a4\u30f4\u30a1\u30fc\u30c6\u30a4\u30f3",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...",
+        "Price": 34.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u9b54\u754c\u5287\u56e3\u306e\u30b2\u30cd\u30d7\u30ed",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb",
+        "Price": 58.8
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8",
+        "Price": 34.8
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u6a39\u51a0\u306e\u7532\u5e1d\u30d9\u30a2\u30b0\u30e9\u30e0",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u30a4\u30d3\u30ea\u30c1\u30e5\u30a2\u30fb\u30cd\u30fc\u30ec\u30a4\u30de\u30ca\u30b9",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u8d6b\u7109\u7adc\u30b0\u30e9\u30f3\u30ae\u30cb\u30e7\u30eb",
+        "Price": 46.8
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30c7\u30fc\u30e2\u30f3-\u6df7\u6c8c\u306e\u9b54\u795e-",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "UR",
+        "Name": "CNo.62 \u8d85\u9280\u6cb3\u773c\u306e\u5149\u5b50\u9f8d\u7687",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u201c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u201d\u30b5...",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u9244\u7363\u5f0f\u5f37\u8972\u6a5f\u52d5\u5175\u88c5\u6539\u201cBucephalu...",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u6df1\u6df5\u306e\u76f8\u5263\u9f8d",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30e9\u30a4\u30ba\u30cf\u30fc\u30c8",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30a6\u30a3\u30c3\u30c1-\u6df7\u6c8c\u306e\u9b54\u5973-",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u51f6\u5c0e\u306e\u767d\u304d\u5929\u5e95",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u6483\u9244\u7adc\u30ea\u30f3\u30c9\u30d6\u30eb\u30e0",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u5b8c\u5168\u614b\u30fb\u30b0\u30ec\u30fc\u30c8\u30fb\u30a4\u30f3\u30bb\u30af\u30c8",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u91dd\u6df5\u306e\u30f4\u30a1\u30ea\u30a2\u30f3\u30c4-\u30a2\u30eb\u30af\u30c8\u30b9XII",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u6c37\u6c34\u557c\u30a8\u30b8\u30eb\u30fb\u30ae\u30e5\u30df\u30eb",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u5f71\u306e\u738b \u30ec\u30a4\u30f4\u30a1\u30fc\u30c6\u30a4\u30f3",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u9b54\u754c\u5287\u56e3\u306e\u30b2\u30cd\u30d7\u30ed",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30d5\u30a9\u30c8\u30f3\u30fb\u30a8\u30f3\u30da\u30e9\u30fc",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30c9\u30e9\u30b4\u30f3",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u5186\u559a\u5e2b\u30d5\u30a7\u30a2\u30ea",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u5191\u306e\u5fcd\u8005-\u6ad3\u4e38",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30d3\u30fc\u30b9\u30c8-\u6df7\u6c8c\u306e\u9b54\u7363-",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u6d77\u9020\u8cca-\u8358\u91cd\u306e\u30e8\u30eb\u30ba\u53f7",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30b5\u30fc\u30af\u30eb\u30fb\u30aa\u30d6\u30fb\u30d5\u30a7\u30a2\u30ea\u30fc",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u9280\u6cb3\u5149\u5b50\u7adc",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u9b54\u754c\u5287\u56e3-\u30b9\u30fc\u30d1\u30fc\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u9280\u6cb3\u767e\u5f0f",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u6c37\u6c34\u5927\u5263\u73fe",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30bf\u30ea\u30db\u30fc!\u30b9\u30d7\u30ea\u30ac\u30f3\u30ba!",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u516d\u4e16\u58ca=\u30d1\u30e9\u30a4\u30be\u30b9",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u5acb\u3005\u305f\u308b\u6f23\u6b4c\u59eb\u306e\u58f1\u4e16\u58ca",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30ea\u30c1\u30e5\u30a2\u306e\u6c37\u9b54\u93e1",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u707d\u8a95\u306e\u546a\u773c",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u4e09\u6226\u306e\u53f7",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30d3\u30c3\u30b0\u30a6\u30a7\u30eb\u30ab\u30e0\u30fb\u30e9\u30d3\u30e5\u30ea\u30f3\u30b9",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u6d41\u661f\u9023\u6253-\u30b7\u30ed\u30af\u30ed\u30a4\u30c9",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u6f5c\u4f0f\u3059\u308bG",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u571f\u5730\u3053\u308d\u304c\u3057",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u5a01\u8feb\u9271\u77f3-\u30b5\u30e2\u30ca\u30a4\u30c8",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u9280\u6cb3\u306e\u53ec\u559a\u5e2b",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30ae\u30e3\u30e9\u30af\u30ea\u30dc\u30fc",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6df1\u6df5\u306e\u7363\u30d0\u30eb\u30c9\u30ec\u30a4\u30af",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30b9\u30b1\u30a2\u30af\u30ed\u30fc\u30fb\u30af\u30b7\u30e3\u30c8\u30ea\u30e9",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30c6\u30a3\u30a2\u30e9\u30e1\u30f3\u30c4\u30fb\u30af\u30b7\u30e3\u30c8\u30ea\u30e9",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6df7\u6c8c\u6bbb",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6df7\u6c8c\u6838",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30e1\u30f3\u30bf\u30eb\u30fb\u30c1\u30e5\u30fc\u30ca\u30fc",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6606\u866b\u6a5f\u7532\u93a7",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30b8\u30e3\u30a4\u30a2\u30f3\u30c8\u30fb\u30e1\u30b5\u30a4\u30a2",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u9b54\u754c\u5287\u56e3-\u30ea\u30d0\u30c6\u30a3\u30fb\u30c9\u30e9\u30de\u30c1\u30b9\u30c8",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u91cd\u306e\u5fcd\u8005-\u78c1\u7fc1",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30b0\u30ea\u30e0\u30fb\u30ea\u30c1\u30e5\u30a2",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u546a\u773c\u306e\u7737\u5c5e \u30d0\u30b8\u30ea\u30b3\u30c3\u30af",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u738b\u306e\u546a \u30f4\u30a1\u30e9",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u9707\u5929\u306e\u30de\u30f3\u30c6\u30a3\u30b3\u30a2",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30c1\u30e7\u30a6\u30b8\u30e5\u30fb\u30b4\u30c3\u30c9",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u731b\u864e\u30e2\u30f3\u30d5\u30fc",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u9280\u7ffc\u306eAXE-\u30b5\u30ea\u30fc",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "Couple of Aces",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6b21\u5143\u540c\u7570\u4f53\u30f4\u30a1\u30ea\u30b9",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u5927\u513a\u4e3b\u6c34",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30cc\u30e1\u30ed\u30f3\u30fb\u30af\u30ea\u30a8\u30a4\u30b7\u30e7\u30f3",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u51f6\u5c0e\u306e\u8056\u544a",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u70d9\u5370\u306e\u5149",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30aa\u30fc\u30d0\u30fc\u30e9\u30c3\u30d7",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u516d\u4e16\u58ca\u4ed6\u5316\u81ea\u5728\u5929",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u754c\u653e\u305b\u3057\u8086\u4e16\u58ca",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "G\u30fb\u30dc\u30fc\u30eb\u30fb\u30b7\u30e5\u30fc\u30c8",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u9b54\u754c\u53f0\u672c\u300c\u30c9\u30e9\u30de\u30c1\u30c3\u30af\u30fb\u30b9\u30c8\u30fc...",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u5929\u5730\u6666\u51a5",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u5100\u6c34\u93e1\u306e\u96c6\u5149",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30d5\u30a9\u30c8\u30f3\u30fb\u30ea\u30bf\u30c7\u30a4\u30b7\u30e7\u30f3",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30ae\u30ac\u30f3\u30c6\u30a3\u30c3\u30af\u30fb\u30b5\u30f3\u30c0\u30fc\u30af\u30ed\u30b9",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u5c0e\u304b\u308c\u3057\u70d9\u5370",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30c8\u30ea\u30f4\u30a3\u30ab\u30eb\u30de",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u516d\u4e16\u58ca\u6839\u6e05\u6d44",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6df7\u6c8c\u5909\u5e7b",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u53f0\u8cab\u8a08\u91cf",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u8d64\u9162\u306e\u8e0f\u5207",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "HR",
+        "Name": "\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u8d85\u91cd\u795e\u7ae5\u30ef\u30ab-U4",
+        "Price": 178.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u6df1\u6df5\u306e\u7363\u30a2\u30eb\u30d9\u30eb",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u6c37\u6c34\u5e1d\u30a8\u30b8\u30eb\u30fb\u30e9\u30fc\u30f3",
+        "Price": 478.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u5c0e\u304d\u306e\u8056\u5973\u30af\u30a8\u30e0",
+        "Price": 888.0
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30ea\u30a6\u30e0\u30cf\u30fc\u30c8",
+        "Price": 178.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2",
+        "Price": 478.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3",
+        "Price": 178.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9",
+        "Price": 178.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u8d85\u91cd\u795e\u5c06\u30b7\u30e3\u30ca-O",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u6df1\u6df5\u306e\u795e\u7363\u30c7\u30a3\u30b9\u30fb\u30d1\u30c6\u30eb",
+        "Price": 358.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u8d6b\u8056\u306e\u5996\u9a0e\u58eb",
+        "Price": 1068.0
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d7\u30e9\u30a4\u30e0\u30cf\u30fc\u30c8",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...",
+        "Price": 298.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30d7\u30ed\u30c6\u30af\u30c8\u30b3\u30fc\u30c9\u30fb\u30c8\u30fc\u30ab\u30fc",
+        "Price": 148.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30b0\u30e9\u30f3\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30af\u30fc\u30ea\u30a2",
+        "Price": 358.8
+    },
+    {
+        "Rarity": "PSE",
+        "Name": "\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30c0...",
+        "Price": 768.0
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u8d85\u91cd\u795e\u7ae5\u30ef\u30ab-U4",
+        "Price": 46.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u6df1\u6df5\u306e\u7363\u30a2\u30eb\u30d9\u30eb",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u6c37\u6c34\u5e1d\u30a8\u30b8\u30eb\u30fb\u30e9\u30fc\u30f3",
+        "Price": 88.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u5c0e\u304d\u306e\u8056\u5973\u30af\u30a8\u30e0",
+        "Price": 106.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30ea\u30a6\u30e0\u30cf\u30fc\u30c8",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2",
+        "Price": 46.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u8d85\u91cd\u795e\u5c06\u30b7\u30e3\u30ca-O",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u6df1\u6df5\u306e\u795e\u7363\u30c7\u30a3\u30b9\u30fb\u30d1\u30c6\u30eb",
+        "Price": 106.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u8d6b\u8056\u306e\u5996\u9a0e\u58eb",
+        "Price": 106.8
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d7\u30e9\u30a4\u30e0\u30cf\u30fc\u30c8",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30d7\u30ed\u30c6\u30af\u30c8\u30b3\u30fc\u30c9\u30fb\u30c8\u30fc\u30ab\u30fc",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "SE",
+        "Name": "\u30b0\u30e9\u30f3\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30af\u30fc\u30ea\u30a2",
+        "Price": 40.8
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2",
+        "Price": 58.8
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u8d6b\u8056\u306e\u5996\u9a0e\u58eb",
+        "Price": 46.8
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "UL",
+        "Name": "\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u5922\u898b\u308b\u30cd\u30e0\u30ec\u30ea\u30a2",
+        "Price": 19.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u5200\u7687-\u90fd\u725f\u7fbd\u6c93\u8599",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u771f\u708e\u7adc\u30a2\u30eb\u30d3\u30aa\u30f3",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u30f4\u30a3\u30b7\u30e3\u30b9=\u30a2\u30b9\u30c8\u30e9\u30a6\u30c9",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u8d85\u91cd\u5929\u795e\u30de\u30b9\u30e9-O",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u8d6b\u8056\u306e\u5996\u9a0e\u58eb",
+        "Price": 25.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u661f\u9a0e\u58eb \u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30fb\u30ab\u30c9\u30b1\u30a6\u30b9",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "UR",
+        "Name": "\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c9\u30e9\u30b4\u30f3\u30fb\u30b7...",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u8d85\u91cd\u795e\u7ae5\u30ef\u30ab-U4",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u6df1\u6df5\u306e\u7363\u30a2\u30eb\u30d9\u30eb",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u6c37\u6c34\u5e1d\u30a8\u30b8\u30eb\u30fb\u30e9\u30fc\u30f3",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u5c0e\u304d\u306e\u8056\u5973\u30af\u30a8\u30e0",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30ea\u30a6\u30e0\u30cf\u30fc\u30c8",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u8d85\u91cd\u795e\u5c06\u30b7\u30e3\u30ca-O",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u6df1\u6df5\u306e\u795e\u7363\u30c7\u30a3\u30b9\u30fb\u30d1\u30c6\u30eb",
+        "Price": 13.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d7\u30e9\u30a4\u30e0\u30cf\u30fc\u30c8",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u30d7\u30ed\u30c6\u30af\u30c8\u30b3\u30fc\u30c9\u30fb\u30c8\u30fc\u30ab\u30fc",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "SR",
+        "Name": "\u30b0\u30e9\u30f3\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30af\u30fc\u30ea\u30a2",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30c7\u30a3\u30d5\u30a7\u30f3\u30b5\u30fc",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u8d85\u91cd\u50e7\u5175\u30d3\u30c3\u30b0\u30d9\u30f3-K",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u73e0\u306e\u5fa1\u5deb\u30d5\u30a5\u30ea",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u661f\u9a0e\u58eb \u30ea\u30e5\u30e9",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u6050\u697d\u5712\u306e\u6b7b\u914d\u4eba \uff1cArlechino\uff1e",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u767e\u6a8e\u9f8d-\u30ea\u30f3\u30b4\u30d6\u30eb\u30e0",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30b5\u30a4\u30d0\u30fc\u30b9\u30fb\u30c7\u30a3\u30bb\u30fc\u30d6\u30eb\u30e0",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u9a0e\u7532\u866b\u30af\u30eb\u30fc\u30a8\u30eb\u30fb\u30b5\u30bf\u30fc\u30f3",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30ab\u30aa\u30b9\u30fb\u30a2\u30f3\u30d8\u30eb-\u6df7\u6c8c\u306e\u53cc\u7ffc-",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u96fb\u8133\u583a\u864e-\u864e\u3005",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u9244\u7363\u306e\u5486\u54ee",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u958b\u304b\u308c\u3057\u5927\u5730",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u4f0d\u4e16\u58ca\u5fc3\u50cf",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u4f0d\u4e16\u58ca=\u30ab\u30e9\u30ea\u30a6\u30e0",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u5bdd\u59eb\u306e\u7518\u3044\u5922",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u30ea\u30d6\u30ed\u30de\u30f3\u30b5\u30fc\u30fb\u30aa\u30ea\u30b8\u30f3",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u6642\u3092\u88c2\u304f\u9b54\u77b3",
+        "Price": 10.8
+    },
+    {
+        "Rarity": "R",
+        "Name": "\u878d\u5408\u8907\u88fd",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u30ef\u30ca\u30d3\u30fc!",
+        "Price": 30.0
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u30a6\u30b5\u30df\u30df\u5c0e\u5e2b",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u30c8\u30f3=\u30c8\u30f3",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "NR",
+        "Name": "\u521d\u8cb7\u3044",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u30fb\u30d5\u30a1\u30f3\u30c8\u30e0",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u8d85\u91cd\u6b66\u8005\u30d0\u30a4-Q",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u8d85\u91cd\u6b66\u8005\u30aa\u30f3-32",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u8d85\u91cd\u6b66\u8005\u88c5\u7559\u30ac\u30a4\u30a2\u30fb\u30d6\u30fc\u30b9\u30bf\u30fc",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30a2\u30eb\u30ae\u30ed\u30b9\u306e\u843d\u80e4",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30d2\u30a2\u30ec\u30b9",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30de\u30ca\u30c9\u30a5\u30e0\u30fb\u30df\u30fc\u30af",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30cd\u30e0\u30ec\u30ea\u30a2\u306e\u5922\u5b88\u308a-\u30aa\u30ec\u30a4\u30a8",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30cd\u30e0\u30ec\u30ea\u30a2\u306e\u5922\u5b88\u308a-\u30af\u30a8\u30c3\u30c8",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30d4\u30e5\u30a2\u30ea\u30a3\u30fb\u30ea\u30ea\u30a3",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u661f\u9a0e\u58eb \u30a2\u30eb\u30c6\u30a2",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u7121\u9650\u8d77\u52d5\u30ed\u30fc\u30c9\u30ed\u30fc\u30e9\u30fc",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30d5\u30eb\u30a2\u30af\u30c6\u30a3\u30d6\u30fb\u30c7\u30e5\u30d7\u30ec\u30c3\u30af\u30b9",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6b7b\u5929\u4f7f\u30cf\u30fc\u30f4\u30a7\u30b9\u30c8",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u5e78\u9b42",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u6109\u602a\u306a\u71d0\u306e\u304d\u3064\u306d\u3073\u3086\u3089\u3089",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\u30fc\u30f3",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30b5\u30a4\u30d0\u30fc\u30b9\u30fb\u30bb\u30a4\u30b8",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u53cc\u5929\u306e\u7345\u4f7f-\u963f\u543d",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "S-Force \u30ca\u30a4\u30c8\u30c1\u30a7\u30a4\u30b5\u30fc",
+        "Price": 3.0
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30b5\u30a4\u30d0\u30cd\u30c3\u30c8\u30fb\u30ed\u30fc\u30eb\u30d0\u30c3\u30af",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u8d6b\u8056\u306e\u76f8\u5263",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30af\u30b7\u30e3\u30c8\u30ea\u30e9\u30fb\u30a2\u30af\u30b9\u30c8\u30e9",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u4f0d\u4e16\u58ca\u6458\u5fc3",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30cd\u30e0\u30ec\u30ea\u30a2\u306e\u5bdd\u59eb\u697c",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30d4\u30e5\u30a2\u30ea\u30a3\u30fb\u30b9\u30ea\u30fc\u30d4\u30a3\u30e1\u30e2\u30ea\u30fc",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u5fa1\u5deb\u821e\u8e0a-\u8ff7\u308f\u3057\u9ce5",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u661f\u5b88\u306e\u9a0e\u58eb\u56e3",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30c9\u30ec\u30df\u30b3\u30fc\u30c9\u30fb\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u304a\u3059\u3059\u3081\u8ecd\u8cab\u63e1\u308a",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30b5\u30a4\u30d0\u30cd\u30c3\u30c8\u30fb\u30b5\u30fc\u30ad\u30c3\u30c8",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u8d6b\u3051\u308b\u738b\u306e\u70d9\u5370",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u70d9\u5370\u306e\u5373\u51f6\u5287",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u4f0d\u4e16\u58ca\u7815\u5fc3",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u4f0d\u4e16\u58ca\u6d44\u5fc3",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u8b58\u7121\u8fba\u4e16\u58ca",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "REINFORCE!",
+        "Price": 4.8
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30c0\u30a4\u30ce\u30eb\u30d5\u30a3\u30a2\u30fb\u30a4\u30f3\u30bf\u30af\u30c8",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30c8\u30e9\u30c3\u30d7\u30c8\u30e9\u30c3\u30af",
+        "Price": 7.2
+    },
+    {
+        "Rarity": "N",
+        "Name": "\u30c0\u30d6\u30eb\u30fb\u30d5\u30c3\u30ad\u30f3\u30b0",
+        "Price": 7.2
+    }
+]

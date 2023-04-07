@@ -31,10 +31,6 @@ if __name__ == '__main__':
     df1 = loop.run_until_complete(scrape('https://yuyu-tei.jp/game_ygo/sell/sell_price.php?ver=phhy'))
     # 1112 [CYAC] CYBERSTORM ACCESS
     df2 = loop.run_until_complete(scrape('https://yuyu-tei.jp/game_ygo/sell/sell_price.php?ver=cyac'))
-
-    # print(df1)
-    # print(df2)
-
     # Concatenate the two dataframes vertically
     merged_df = pd.concat([df1, df2], ignore_index=True)
 
@@ -43,3 +39,5 @@ if __name__ == '__main__':
 
     # Save the merged dataframe as a JSON file
     merged_df.to_json('merged_data.json', orient='records')
+
+    
