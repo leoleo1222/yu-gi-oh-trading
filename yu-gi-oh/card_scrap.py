@@ -2,10 +2,10 @@ import asyncio
 import pandas as pd
 from pyppeteer import launch
 
-async def scrape():
+async def scrape(url):
     browser = await launch()
     page = await browser.newPage()
-    await page.goto('https://yuyu-tei.jp/game_ygo/sell/sell_price.php?ver=phhy')
+    await page.goto()
 
     data = []
     elements = await page.querySelectorAll('.card_unit')
@@ -26,6 +26,6 @@ async def scrape():
 
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()
-    df = loop.run_until_complete(scrape())
+    df = loop.run_until_complete(scrape('https://yuyu-tei.jp/game_ygo/sell/sell_price.php?ver=phhy'))
     print(df)
     df.to_json('data.json', orient='records')
