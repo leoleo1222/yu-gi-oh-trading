@@ -5,7 +5,7 @@ from pyppeteer import launch
 async def scrape(url):
     browser = await launch()
     page = await browser.newPage()
-    await page.goto()
+    await page.goto(url)
 
     data = []
     elements = await page.querySelectorAll('.card_unit')
