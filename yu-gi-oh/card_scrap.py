@@ -26,6 +26,20 @@ async def scrape(url):
 
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()
-    df = loop.run_until_complete(scrape('https://yuyu-tei.jp/game_ygo/sell/sell_price.php?ver=phhy'))
-    print(df)
-    df.to_json('data.json', orient='records')
+
+    # 1111 [PHHY] PHOTON HYPERNOVA
+    df1 = loop.run_until_complete(scrape('https://yuyu-tei.jp/game_ygo/sell/sell_price.php?ver=phhy'))
+    # 1112 [CYAC] CYBERSTORM ACCESS
+    df2 = loop.run_until_complete(scrape('https://yuyu-tei.jp/game_ygo/sell/sell_price.php?ver=cyac'))
+
+    # print(df1)
+    # print(df2)
+
+    # Concatenate the two dataframes vertically
+    merged_df = pd.concat([df1, df2], ignore_index=True)
+
+    # Print the merged dataframe
+    print(merged_df)
+
+    # Save the merged dataframe as a JSON file
+    merged_df.to_json('merged_data.json', orient='records')

@@ -15,7 +15,7 @@
         </div>
     </div>
     <script>
-        fetch('data.json')
+        fetch('merged_data.json')
             .then(response => response.json())
             .then(data => {
                 let cardsHtml = '';
@@ -33,7 +33,7 @@
                 // Display cards by name
                 for (const [name, cards] of Object.entries(cardsByName)) {
                     cards.sort((a, b) => b.Price - a.Price);
-                    cardsHtml += '<div class="row">';
+                    cardsHtml += '<div class="row row-cols-3 row-cols-md-3 g-4">';
                     cardsHtml += '<div class="col-sm-12"><div class="card"><div class="card-body">';
                     cardsHtml += '<h5 class="card-title">' + name + '</h5>';
                     // Add anchor tag for card search
