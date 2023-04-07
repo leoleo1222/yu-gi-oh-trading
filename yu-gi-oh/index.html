@@ -37,7 +37,7 @@
                     cardsHtml += '<div class="col-sm-12"><div class="card"><div class="card-body">';
                     cardsHtml += '<h5 class="card-title">' + name + '</h5>';
                     // Add anchor tag for card search
-                    cardsHtml += `<a href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=1&keyword=${name}" target="_blank">Card Information</a>`
+                    cardsHtml += `<a href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=2&keyword=${name}&request_locale=ja" target="_blank">Card Information</a>`
                         
                     for (const card of cards) {
                         cardsHtml += '<p class="card-text">Price: $' + card.Price.toLocaleString() + '</p>';
