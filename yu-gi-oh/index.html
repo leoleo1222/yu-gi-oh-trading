@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Yu gi oh price</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Yu gi oh price</h1>
+        <hr>
+        <div id="cards">
+        </div>
+    </div>
+    <script>
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                let cardsHtml = '';
+                let cardsByName = {};
+
+                // Group cards by name
+                data.forEach(row => {
+                    if (cardsByName[row.Name]) {
+                        cardsByName[row.Name].push(row);
+                    } else {
+                        cardsByName[row.Name] = [row];
+                    }
+                });
+
+                // Display cards by name
+                for (const [name, cards] of Object.entries(cardsByName)) {
+                    cards.sort((a, b) => b.Price - a.Price);
+                    cardsHtml += '<div class="row">';
+                    cardsHtml += '<div class="col-sm-12"><div class="card"><div class="card-body">';
+                    cardsHtml += '<h5 class="card-title">' + name + '</h5>';
+                    for (const card of cards) {
+                        cardsHtml += '<p class="card-text">Price: $' + card.Price.toLocaleString() + '</p>';
+                        cardsHtml += '<p class="card-text">Rarity: ' + card.Rarity + '</p>';
+                        cardsHtml += '<hr>';
+                    }
+                    cardsHtml += '</div></div></div>';
+                    cardsHtml += '</div>';
+                }
+
+                document.getElementById('cards').innerHTML = cardsHtml;
+
+            });
+
+    </script>
+</body>
+
+</html>
