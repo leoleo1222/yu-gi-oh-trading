@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Yu-gi-oh price</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container my-5">
+        <h1>Yu-gi-oh price</h1>
+        <hr>
+        <div id="cards" class="row">
+        </div>
+    </div>
+    <script>
+        fetch('merged_data.json')
+            .then(response => response.json())
+            .then(data => {
+                let cardsHtml = '';
+                let cardsByName = {};
+
+                // Group cards by name
+                data.forEach(row => {
+                    if (cardsByName[row.Name]) {
+                        cardsByName[row.Name].push(row);
+                    } else {
+                        cardsByName[row.Name] = [row];
+                    }
+                });
+
+                // Display cards by name
+                for (const [name, cards] of Object.entries(cardsByName)) {
+                    cards.sort((a, b) => b.Price - a.Price);
+                    cardsHtml += '<div class="col-sm-4">';
+                    cardsHtml += '<div class="card" style="margin-bottom: 25px;">';
+                    cardsHtml += '<div class="card-body">';
+                    cardsHtml += '<h5 class="card-title">' + name + '</h5>';
+                    // Add anchor tag for card search
+                    cardsHtml += '<a href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=2&keyword=' + name + '&request_locale=ja" target="_blank">Card Information</a>';
+                    for (const card of cards) {
+                        cardsHtml += '<p class="card-text">Price: $' + card.Price.toLocaleString() + '</p>';
+                        cardsHtml += '<p class="card-text">Rarity: ' + card.Rarity + '</p>';
+                        cardsHtml += '<hr>';
+                    }
+                    cardsHtml += '</div></div></div>';
+                }
+
+                document.getElementById('cards').innerHTML = cardsHtml;
+
+            });
+    </script>
+</body>
+</html>
